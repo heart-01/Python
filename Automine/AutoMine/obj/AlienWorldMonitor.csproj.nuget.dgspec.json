@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\AlienWorldMonitor\\AlienWorldMonitor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\AlienWorldMonitor\\AlienWorldMonitor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\AlienWorldMonitor\\AlienWorldMonitor.csproj",
+        "projectName": "AlienWorldMonitor",
+        "projectPath": "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\AlienWorldMonitor\\AlienWorldMonitor.csproj",
+        "packagesPath": "C:\\Users\\6100054\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\AlienWorldMonitor\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6100054\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\EOS.Client\\EOS.Client.csproj": {
+                "projectPath": "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\EOS.Client\\EOS.Client.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\EOS.Client\\EOS.Client.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\EOS.Client\\EOS.Client.csproj",
+        "projectName": "eosnet",
+        "projectPath": "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\EOS.Client\\EOS.Client.csproj",
+        "packagesPath": "C:\\Users\\6100054\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6100054\\Desktop\\AlienWorldMonitor\\EOS.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6100054\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Cryptography.ECDSA.Secp256K1": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

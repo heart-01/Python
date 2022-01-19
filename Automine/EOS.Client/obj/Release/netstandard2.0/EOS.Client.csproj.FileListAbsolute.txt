@@ -1,0 +1,9 @@
+C:\Users\6100054\Desktop\bin\netstandard2.0\EOS.Client.deps.json
+C:\Users\6100054\Desktop\bin\netstandard2.0\EOS.Client.dll
+C:\Users\6100054\Desktop\bin\netstandard2.0\EOS.Client.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Release\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Release\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Release\netstandard2.0\EOS.Client.AssemblyInfo.cs
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Release\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Release\netstandard2.0\EOS.Client.dll
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Release\netstandard2.0\EOS.Client.pdb

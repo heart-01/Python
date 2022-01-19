@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\AutoMine\\AutoMine.csproj": {}
+  },
+  "projects": {
+    "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\AutoMine\\AutoMine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\AutoMine\\AutoMine.csproj",
+        "projectName": "AutoMine",
+        "projectPath": "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\AutoMine\\AutoMine.csproj",
+        "packagesPath": "C:\\Users\\ALove\\.nuget\\packages\\",
+        "outputPath": "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\AutoMine\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ALove\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\EOS.Client\\EOS.Client.csproj": {
+                "projectPath": "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\EOS.Client\\EOS.Client.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "CloudProxySharp": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Costura.Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            },
+            "TwoStepsAuthenticator": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\EOS.Client\\EOS.Client.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\EOS.Client\\EOS.Client.csproj",
+        "projectName": "eosnet",
+        "projectPath": "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\EOS.Client\\EOS.Client.csproj",
+        "packagesPath": "C:\\Users\\ALove\\.nuget\\packages\\",
+        "outputPath": "D:\\Workshop\\Project bot\\Wax Wallet\\Class Bot\\Automine\\EOS.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ALove\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Cryptography.ECDSA.Secp256K1": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

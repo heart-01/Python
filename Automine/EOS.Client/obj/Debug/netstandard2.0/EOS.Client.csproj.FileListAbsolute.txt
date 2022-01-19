@@ -1,0 +1,102 @@
+E:\BOT\bin\netstandard2.0\EOS.Client.deps.json
+E:\BOT\bin\netstandard2.0\EOS.Client.dll
+E:\BOT\bin\netstandard2.0\EOS.Client.pdb
+E:\BOT\BotApp\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+E:\BOT\BotApp\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+E:\BOT\BotApp\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+E:\BOT\BotApp\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+E:\BOT\BotApp\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+E:\BOT\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+E:\BOT\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+E:\BOT\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+E:\BOT\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+E:\BOT\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+E:\BOT\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+C:\Users\6100054\Desktop\bin\netstandard2.0\EOS.Client.deps.json
+C:\Users\6100054\Desktop\bin\netstandard2.0\EOS.Client.dll
+C:\Users\6100054\Desktop\bin\netstandard2.0\EOS.Client.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+C:\Users\6100054\Desktop\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+E:\bin\netstandard2.0\EOS.Client.deps.json
+E:\bin\netstandard2.0\EOS.Client.dll
+E:\bin\netstandard2.0\EOS.Client.pdb
+E:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+E:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+E:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+E:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+E:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+G:\bin\netstandard2.0\EOS.Client.deps.json
+G:\bin\netstandard2.0\EOS.Client.dll
+G:\bin\netstandard2.0\EOS.Client.pdb
+G:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+G:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+G:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+G:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+G:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+G:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+D:\bin\netstandard2.0\EOS.Client.deps.json
+D:\bin\netstandard2.0\EOS.Client.dll
+D:\bin\netstandard2.0\EOS.Client.pdb
+D:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+D:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+D:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+D:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+D:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+D:\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+E:\BOT\New\bin\netstandard2.0\EOS.Client.deps.json
+E:\BOT\New\bin\netstandard2.0\EOS.Client.dll
+E:\BOT\New\bin\netstandard2.0\EOS.Client.pdb
+E:\BOT\New\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+E:\BOT\New\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+E:\BOT\New\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+E:\BOT\New\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+E:\BOT\New\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+E:\BOT\New\AlienWorldMonitor\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+E:\BOT\New\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+E:\BOT\New\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+E:\BOT\New\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+E:\BOT\New\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+E:\BOT\New\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+E:\BOT\New\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+C:\Users\6100099\Desktop\bin\netstandard2.0\EOS.Client.deps.json
+C:\Users\6100099\Desktop\bin\netstandard2.0\EOS.Client.dll
+C:\Users\6100099\Desktop\bin\netstandard2.0\EOS.Client.pdb
+C:\Users\6100099\Desktop\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+C:\Users\6100099\Desktop\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+C:\Users\6100099\Desktop\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+C:\Users\6100099\Desktop\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+C:\Users\6100099\Desktop\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+C:\Users\6100099\Desktop\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+E:\Project OutWork\bin\netstandard2.0\EOS.Client.deps.json
+E:\Project OutWork\bin\netstandard2.0\EOS.Client.dll
+E:\Project OutWork\bin\netstandard2.0\EOS.Client.pdb
+E:\Project OutWork\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csprojAssemblyReference.cache
+E:\Project OutWork\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+E:\Project OutWork\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+E:\Project OutWork\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+E:\Project OutWork\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+E:\Project OutWork\Farmersworld\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+D:\Workshop\Project bot\Wax Wallet\bin\netstandard2.0\EOS.Client.deps.json
+D:\Workshop\Project bot\Wax Wallet\bin\netstandard2.0\EOS.Client.dll
+D:\Workshop\Project bot\Wax Wallet\bin\netstandard2.0\EOS.Client.pdb
+D:\Workshop\Project bot\Wax Wallet\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.AssemblyReference.cache
+D:\Workshop\Project bot\Wax Wallet\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\Project bot\Wax Wallet\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+D:\Workshop\Project bot\Wax Wallet\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+D:\Workshop\Project bot\Wax Wallet\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+D:\Workshop\Project bot\Wax Wallet\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+D:\Workshop\Project bot\Wax Wallet\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb
+D:\Workshop\Project bot\Wax Wallet\Class Bot\bin\netstandard2.0\EOS.Client.deps.json
+D:\Workshop\Project bot\Wax Wallet\Class Bot\bin\netstandard2.0\EOS.Client.dll
+D:\Workshop\Project bot\Wax Wallet\Class Bot\bin\netstandard2.0\EOS.Client.pdb
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.AssemblyReference.cache
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfoInputs.cache
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.AssemblyInfo.cs
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.csproj.CoreCompileInputs.cache
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.dll
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\EOS.Client\obj\Debug\netstandard2.0\EOS.Client.pdb

@@ -1,0 +1,17 @@
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Release\AutoMine.exe.config
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Release\AutoMine.exe
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Release\AutoMine.XmlSerializers.dll
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Release\AutoMine.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.csprojAssemblyReference.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.FormLine.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.FormConfig.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.FormTransfer.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.Login.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.MainForm.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.Properties.Resources.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.csproj.GenerateResource.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.csproj.CoreCompileInputs.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.csproj.Fody.CopyLocal.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.exe
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Release\AutoMine.XmlSerializers.dll

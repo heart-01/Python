@@ -1,0 +1,174 @@
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+E:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+E:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe
+E:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe
+E:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+G:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+G:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe
+G:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe
+G:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+D:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+D:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe
+D:\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe
+D:\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.exe
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.exe
+E:\BOT\New\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+E:\BOT\New\Farmersworld\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+E:\BOT\New\Farmersworld\AlienWorldMonitor\bin\Debug\AutoMine.exe
+E:\BOT\New\Farmersworld\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.exe
+E:\BOT\New\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\bin\Debug\AutoMine.exe
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.exe
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormStart.resources
+C:\Users\6100099\Desktop\Farmersworld\AlienWorldMonitor\obj\Debug\AutoMine.FormTrasferWood.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\bin\Debug\AutoMine.exe.config
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\bin\Debug\AutoMine.exe
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\bin\Debug\AutoMine.pdb
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.csprojAssemblyReference.cache
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.exe.config
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.FormLine.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.FormConfig.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.FormStart.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.FormTransfer.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.FormTrasferWood.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.MainForm.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.Properties.Resources.resources
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.csproj.GenerateResource.cache
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.exe
+C:\Users\6100099\Desktop\Farmersworld - Copy\AlienWorldMonitor\obj\Debug\AutoMine.pdb
+E:\Project OutWork\Farmersworld\AutoMine\bin\Debug\AutoMine.exe.config
+E:\Project OutWork\Farmersworld\AutoMine\bin\Debug\AutoMine.exe
+E:\Project OutWork\Farmersworld\AutoMine\bin\Debug\AutoMine.pdb
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.csprojAssemblyReference.cache
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.exe.config
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.FormLine.resources
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.FormConfig.resources
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.FormStart.resources
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.FormTransfer.resources
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.FormTrasferWood.resources
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.MainForm.resources
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.Properties.Resources.resources
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.csproj.GenerateResource.cache
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.exe
+E:\Project OutWork\Farmersworld\AutoMine\obj\Debug\AutoMine.pdb
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\bin\Debug\AutoMine.exe.config
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\bin\Debug\AutoMine.exe
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\bin\Debug\AutoMine.pdb
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.csproj.AssemblyReference.cache
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.exe.config
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.FormLine.resources
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.FormConfig.resources
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.FormStart.resources
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.FormTransfer.resources
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.FormTrasferWood.resources
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.MainForm.resources
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.Properties.Resources.resources
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.csproj.GenerateResource.cache
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.exe
+D:\Workshop\Project bot\Wax Wallet\Automine\AutoMine\obj\Debug\AutoMine.pdb
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\bin\Debug\AutoMine.exe.config
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\bin\Debug\AutoMine.exe
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\bin\Debug\AutoMine.pdb
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.csproj.AssemblyReference.cache
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.exe.config
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.FormLine.resources
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.FormConfig.resources
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.FormStart.resources
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.FormTransfer.resources
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.FormTrasferWood.resources
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.MainForm.resources
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.Properties.Resources.resources
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.csproj.GenerateResource.cache
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.csproj.CoreCompileInputs.cache
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.csproj.Fody.CopyLocal.cache
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.exe
+D:\Workshop\Project bot\Wax Wallet\Class Bot\Automine\AutoMine\obj\Debug\AutoMine.pdb

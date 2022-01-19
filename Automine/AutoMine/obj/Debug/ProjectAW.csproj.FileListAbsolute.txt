@@ -1,0 +1,17 @@
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AlienWorldMonitor.exe.config
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AlienWorldMonitor.exe
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\AlienWorldMonitor.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\Cryptography.ECDSA.dll
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\RestSharp.dll
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\EOS.Client.dll
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\bin\Debug\EOS.Client.pdb
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\ProjectAW.csprojAssemblyReference.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AlienWorldMonitor.FormLine.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AlienWorldMonitor.MainForm.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AlienWorldMonitor.Properties.Resources.resources
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\ProjectAW.csproj.GenerateResource.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\ProjectAW.csproj.CoreCompileInputs.cache
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\ProjectAW.csproj.CopyComplete
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AlienWorldMonitor.exe
+C:\Users\6100054\Desktop\AlienWorldMonitor\AlienWorldMonitor\obj\Debug\AlienWorldMonitor.pdb
