@@ -1,3 +1,6 @@
+#-*- mode: python -*-
+# -*- coding: utf-8 -*-
+
 from pynput.keyboard import Key, Controller
 
 from datetime import datetime
