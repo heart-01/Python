@@ -702,8 +702,11 @@ def restart():
 # ----------------------------------------------- 
 
 def number():
-    #facebook ส่งก่อน 4 ตัว เวลา 00:00:58
+    #facebook ส่งก่อน 3 ตัว เวลา 00:00:59
     for i in range(1):
+        num14()
+        num14()
+        num15()
         for i in range(int(start),int(stop) + 1, int(1)):
             method = eval("num"+str(i))
             method()
